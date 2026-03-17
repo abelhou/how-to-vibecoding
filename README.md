@@ -3,6 +3,7 @@
 [![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Windows-blue?style=flat-square)](#)
 [![Theme](https://img.shields.io/badge/Topic-AI%20Coding-brightgreen?style=flat-square)](#)
 [![Linux.do Popular](https://img.shields.io/badge/Linux.do-%E7%83%AD%E9%97%A8%E6%8E%A8%E8%8D%90-gold?style=flat-square&logo=linux&logoColor=white)](https://linux.do/t/topic/1615649)
+[![Blog](https://img.shields.io/badge/Blog-vibelearning.top-purple?style=flat-square&logo=ghost&logoColor=white)](https://vibelearning.top/)
 
 > VibeCoding 系列教程：从环境搭建到多智能体协作，覆盖 macOS / Windows 工具链配置、MCP、Skills、Agent 分工治理等核心实战内容。
 
@@ -22,7 +23,6 @@
 | **进阶篇（一）** | 给 coding agent 接上 MCP 工具，自己动手写一个 MCP Server，用 Skills 卡片固化标准流程 | [Linux.do](https://linux.do/t/topic/1770399) |
 | **进阶篇（二）** | 多智能体分工（Scout / Builder / Verifier），长任务 ULW 循环推进，防止 agent 既当裁判又当运动员 | 即将发布 |
 
-完整文档见 [`docs/`](./docs/) 文件夹。
 
 ---
 
@@ -34,3 +34,4 @@
 
 | **Email** | pingtianhechuan@gmail.com |
 | **Linux.do** | [1EchA](https://linux.do/u/1EchA/summary) |
+| **Blog** | [vibelearning.top](https://vibelearning.top/) |
