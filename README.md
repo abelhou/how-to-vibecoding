@@ -8,7 +8,9 @@
 
 ---
 
-<img width="790" height="598" alt="VibeCoding Image" src="https://github.com/user-attachments/assets/a2584ef6-3475-498b-80b5-3b329e4585c8" />
+<div align="center">
+  <img width="805" src="https://github.com/user-attachments/assets/8ef742ef-77c1-494a-b573-25b7feea861e" />
+</div>
 
 ---
 
