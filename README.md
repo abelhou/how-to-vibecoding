@@ -21,7 +21,7 @@
 |------|----------|----------|
 | **基础篇** | macOS / Windows 环境搭建，Claude / Gemini / Codex CLI 与 VS Code 配置，Skills & MCP 入门推荐 | [Linux.do](https://linux.do/t/topic/1615649) |
 | **进阶篇（一）** | 给 coding agent 接上 MCP 工具，自己动手写一个 MCP Server，用 Skills 卡片固化标准流程 | [Linux.do](https://linux.do/t/topic/1770399) |
-| **进阶篇（二）** | 多智能体分工（Scout / Builder / Verifier），长任务 ULW 循环推进，防止 agent 既当裁判又当运动员 | 即将发布 |
+| **进阶篇（二）** | 多智能体分工（Scout / Builder / Verifier），长任务 ULW 循环推进，防止 agent 既当裁判又当运动员 | [Linux.do](https://linux.do/t/topic/1773192) |
 
 
 ---
