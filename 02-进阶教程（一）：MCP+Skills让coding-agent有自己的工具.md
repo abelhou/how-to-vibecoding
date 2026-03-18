@@ -1,6 +1,12 @@
-# Vibecoding 进阶篇（一）：MCP + Skills——让 Coding Agent 有自己的工具
+<div data-theme-toc="true"></div>
 
-![MCP + Skills](images/vibecoding-mcp-hero.png)
+# Vibecoding进阶教程-从能用到可控（一）：让coding agent也有自己的工具可用，减少不必要的重复工作
+
+> 本篇是 **Vibecoding 系列教程** 第二部分的第一篇。
+> - 前篇（环境搭建 + 基础闭环）：[Vibecoding基础教程](https://linux.do/t/topic/1615649)
+> - 下一篇：[多智能体 + 长任务治理]
+
+---
 
 ## 写在前面
 
@@ -479,3 +485,5 @@ Failure strategy（卡住了怎么办）：
 ```
 
 ---
+
+> **下一篇预告**：[多智能体 + 长任务治理]
