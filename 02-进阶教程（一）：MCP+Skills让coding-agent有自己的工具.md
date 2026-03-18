@@ -3,7 +3,7 @@
 # Vibecoding进阶教程-从能用到可控（一）：让coding agent也有自己的工具可用，减少不必要的重复工作
 
 > 本篇是 **Vibecoding 系列教程** 第二部分的第一篇。
-> - 前篇（环境搭建 + 基础闭环）：[Vibecoding基础教程](https://github.com/1EchA/how-to-vibecoding)
+> - 前篇（环境搭建 + 基础闭环）：[Vibecoding基础教程](https://linux.do/t/topic/1615649)
 > - 下一篇：[多智能体 + 长任务治理]
 
 ---
