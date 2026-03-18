@@ -19,9 +19,10 @@
 
 | 篇章 | 内容简介 | 论坛链接 |
 |------|----------|----------|
-| **基础篇** | macOS / Windows 环境搭建，Claude / Gemini / Codex CLI 与 VS Code 配置，Skills & MCP 入门推荐 | [Linux.do](https://linux.do/t/topic/1615649) |
-| **进阶篇（一）** | 给 coding agent 接上 MCP 工具，自己动手写一个 MCP Server，用 Skills 卡片固化标准流程 | [Linux.do](https://linux.do/t/topic/1770399) |
-| **进阶篇（二）** | 多智能体分工（Scout / Builder / Verifier），长任务 ULW 循环推进，防止 agent 既当裁判又当运动员 | [Linux.do](https://linux.do/t/topic/1773192) |
+| [**基础篇**](./01-Vibecoding基础教程.md) | macOS / Windows 环境搭建，Claude / Gemini / Codex CLI 与 VS Code 配置，Skills & MCP 入门推荐 | [Linux.do](https://linux.do/t/topic/1615649) |
+| [**进阶篇（一）**](./02-进阶教程（一）：MCP+Skills让coding-agent有自己的工具.md) | 给 coding agent 接上 MCP 工具，自己动手写一个 MCP Server，用 Skills 卡片固化标准流程 | [Linux.do](https://linux.do/t/topic/1770399) |
+| [**进阶篇（二）**](./03-进阶教程（二）：多智能体分工+长任务治理.md) | 多智能体分工（Scout / Builder / Verifier），长任务 ULW 循环推进，防止 agent 既当裁判又当运动员 | [Linux.do](https://linux.do/t/topic/1773192) |
+| [**进阶篇（三）**](./04-进阶教程（三）：安全、评测与流水线.md) | 安全加固、评测与可观测、超大仓库管理与 CI/CD 流水线 | 即将发布 |
 
 
 ---
