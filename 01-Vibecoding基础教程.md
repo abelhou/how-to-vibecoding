@@ -1,6 +1,5 @@
 <div data-theme-toc="true"></div>
 
-### 本篇为linuxdo原文，拆分后的请移步doc文件夹
 
 ### AI 编程环境搭建指南 (Claude / Gemini / OpenAI)
 
