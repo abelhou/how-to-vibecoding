@@ -11,7 +11,8 @@
 
 <div align="center">
   <img width="80%" alt="image" src="https://github.com/user-attachments/assets/fa5ff94b-ae61-4f93-911e-db64fd2d44b0" />
-  <img width="80%" alt="image" src="https://github.com/user-attachments/assets/cb066805-8df8-432f-90f1-f496d283bf06" />
+  <img width="80%" alt="image" alt="image" src="https://github.com/user-attachments/assets/23b5ac62-a6bc-4475-ab1f-3ca625a67b58" />
+
 
 </div>
 
