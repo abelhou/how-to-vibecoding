@@ -402,8 +402,8 @@ CC-switch 会把 Gemini 的配置写到这些位置：
 这部分和claude在ccswitch的配置几乎相同
 
 1. 在 CC-switch 里新增/选择你的中转商 Provider（通常就是 Base URL + Key）
-2. 选择 Claude 对应的 Provider 并应用
-3. 重启 Claude Code，再运行：
+2. 选择 Gemini 对应的 Provider 并应用
+3. 重启 Gemini，再运行：
 
 切换后重启 Gemini CLI；直接运行验证：
 
@@ -471,8 +471,8 @@ CC-switch 会把 Codex 的配置写到这些位置：
 依旧和claude的配置差不多：
 
 1. 在 CC-switch 里新增/选择你的中转商 Provider（通常就是 Base URL + Key）
-2. 选择 Claude 对应的 Provider 并应用
-3. 重启 Claude Code，再运行：
+2. 选择 Codex 对应的 Provider 并应用
+3. 重启 Codex ，再运行：
 
 切换后建议：
 
