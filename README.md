@@ -6,7 +6,8 @@
 [![Blog](https://img.shields.io/badge/Blog-vibelearning.top-purple?style=flat-square&logo=ghost&logoColor=white)](https://vibelearning.top/)
 
 > VibeCoding 系列教程：从环境搭建到多智能体协作，覆盖 macOS / Windows 工具链配置、MCP、Skills、Agent 分工治理等核心实战内容。
-> 感谢VBL-API中转的赞助，后续我会继续产出更多有意义的教学！https://api.vibelearning.top
+
+| **感谢VBL-API中转的赞助，后续我会继续产出更多有意义的教学！https://api.vibelearning.top** |
 
 ---
 
