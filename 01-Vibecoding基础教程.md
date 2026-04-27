@@ -5,11 +5,22 @@
 
 > 覆盖工具：Claude Code、Gemini CLI、Codex CLI 及其对应的 VS Code 插件
 >
-> 适用系统：macOS, Linux, Windows 
+> 适用系统：macOS, Linux, Windows
+
+
+
+**或许你在寻找一家稳定性价比高的中转站？**
+
+**感谢VBL-API中转的赞助，我后续会产出更多有意义有价值的教程！**
+
+**https://api.vibelearning.top**
+
+
 
 首先推荐使用中转商服务的用户都先下载 CC-switch，这是一个开源的项目，可以帮助你完成环境变量的配置，mcp、agents、skills 的管理，
 
 https://github.com/farion1231/cc-switch/tree/main
+
 
 在 releases 中选择适合自己的版本下载
 
